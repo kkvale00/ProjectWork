@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 namespace _00___ProjectWorkTest1.Models
 {
-    public class Prodotti
+    public class Taglia
     {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+
     }
 }
