@@ -12,7 +12,5 @@ namespace _00___ProjectWorkTest1.Models
         public string Foto { get; set; }
         public string Categoria { get; set; }
         public double Prezzo { get; set; }
-
-        
     }
 }
